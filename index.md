@@ -26,8 +26,7 @@ Here's some words about the book _One Hundred Years..._.
 **_1._** [Search for it.](www.google.com)  
 **_2._** [You're really, really going to want to see this.](www.dailykitten.com)  
 **_3._** 
-
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 **_4._** Do you want to [see something fun][fun place]?  
 Well, do I have [the website for you][another fun place]!
 
