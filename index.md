@@ -9,7 +9,8 @@
 
 ### Headers
 
-1. # Header one
+1.
+ # Header one
  ## Header two
  ### Header three
  #### Header four
