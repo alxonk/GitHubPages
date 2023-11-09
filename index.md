@@ -2,14 +2,14 @@
 
 ### Italics and Bold
 
- **_1._** Writing in Markdown is _not_ that hard!  
- **_2._** I **will** complete these lessons!  
- **_3._** _"Of course,"_ she whispered. Then, she shouted: "All I need is a **little moxie!**"  
- **_4._** If you're thinking to yourself, This is **_unbelievable_**, you'd probably be right.  
+**_1._** Writing in Markdown is _not_ that hard!  
+**_2._** I **will** complete these lessons!  
+**_3._** _"Of course,"_ she whispered. Then, she shouted: "All I need is a **little moxie!**"  
+**_4._** If you're thinking to yourself, This is **_unbelievable_**, you'd probably be right.  
 
 ### Headers
 
- **_1._**  
+**_1._**  
  # Header one  
  ## Header two  
  ### Header three  
