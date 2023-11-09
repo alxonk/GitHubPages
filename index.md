@@ -16,6 +16,7 @@
  #### Header four  
  ##### Header five  
  ###### Header six
+ 
  2.
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
@@ -35,6 +36,7 @@ Well, do I have [the website for you][another fun place]!
 
 1. 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 2. 
 ![Black cat][Black] ![Orange cat][Orange]
 
